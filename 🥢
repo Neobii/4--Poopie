@@ -1,6 +1,13 @@
 [
   {
     "{{🥢}": "9:30 PM 3-21-22",
-    "route": ["-Storge Power", "mck -->", "-> tbw", "-> `oscar glasses` -> ", "--> mck"],  
+    "route": [{
+      "-Storge Power", 
+      "mck -->", 
+      "-> tbw", 
+      "-> jad ->;?🥢", 
+      "-> `lui` ->;?🥢", 
+      "--> mck"
+    }],
   }
 ]
