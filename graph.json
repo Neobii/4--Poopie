@@ -31,13 +31,15 @@
   {
     "handle": "AccociatedPress",
     "emoji": "💪",
+    "**warn✨✔️**": "need ✔️",
     "on":
       "🪱{!✔️} --> 😇": "--> ??-",
     "status": {
       "{🪱} --> ✔️✔️✔️": "!✔️",
-      "mood": "{💪-}#.. 🪱"
+      "mood": "{💪----}"
     }, 
   {
+    "{⛔}": "venerating madre",
     "**💻warn✨**": "outdated ssl certificate, don't wear out 4 year old trends",
     "handle": "?+ChiMetricsAllDayEveryday?+",
     "emoji": "✈️",
