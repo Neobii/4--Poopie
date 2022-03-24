@@ -25,16 +25,19 @@
     "handle": "mk-ultra",
     "emoji": "🍋",
     "status": {
-      "update": "(🔬+) {kawaii}... is kawaii your goal?",
-      "✔️": "3-20-22",
+      "✔️?+": "3-23-22",
       "mood": "🍋+"
-    }
+    },
+    "queries": [
+      {
+        "update": { "(🔬+) {kawaii}... is kawaii your goal?", date: { "9:00 PM", "3/23/2022"}},
+        "response": "#... ??"
+      }
+    ],
   },
   {
     "handle": "AccociatedPress",
     "emoji": "💪",
-    "**warn✨✔️**": "need ✔️",
-    "**warn💪": "Stop {{💪----}}",
     "on":
       "🪱{!✔️} --> 😇": "--> ??-",
     "status": {
