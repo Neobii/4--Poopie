@@ -5,7 +5,8 @@
     "status": {
       "✔️✔️✔️": "4-1-20",
       "mood": "=== shielkwamm ==="
-    }
+    },
+    NaN
   },
   {
     "handle": "coolio_jo",
@@ -39,7 +40,8 @@
     "status": {
       "{🪱} --> ✔️✔️✔️": "!✔️",
       "mood": "{💪----}"
-    }, 
+    },
+    null
   {
     "{😑}": "displaying imagery that seem to escalate conflict, but representing 🎪.",
     "**💻warn✨**": "outdated ssl certificate, don't wear out 4 year old trends",
@@ -54,6 +56,11 @@
       "kgl": "✈️ <--",
       "scs": "✈️ -->",
       "🗒️": "restrictive of kawaii, instigating storge"
+    },
+    {
+      "handle": z",
+      "emoji": "🦉",
+      NaN
     }]
   },
 {"%": 
