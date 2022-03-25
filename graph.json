@@ -38,7 +38,9 @@
     "queries": [
       {
         "update": { "(🔬+) {kawaii}... is kawaii your goal?", "date": { "9:00 PM", "3/23/2022"}},
-        "response": "#... ??"
+        "response": "#... ??",
+        "update": { "check on mcc" }?}",
+        "response": "mcc --> ~[🧠] --> 😇"
       }
     ],
   },
