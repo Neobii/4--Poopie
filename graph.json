@@ -32,8 +32,11 @@
     "handle": "mk-ultra",
     "emoji": "🍋",
     "status": {
-      "✔️... ??✔️": "3-23-22",
-      "mood": "🍋+"
+      "✔️[ = ]✔️": "3-25-22",
+      "mood": "🍋+",
+      "{🎪}": [{
+        "Pulse to eject 🎪 --> 🎪 redirect to ChiMetricsAllDayEveryday"
+      }];
     },
     "queries": [
       {
