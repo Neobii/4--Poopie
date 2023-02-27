@@ -25,16 +25,11 @@
     },
   },
   {
-    "me": "✔️{💻?+:-",
-    "mood": "{{ 💨 }}",
-    
-  },
-  {
     "handle": "mk-ultra",
-    "emoji": "🍋",
+    "emoji": "🪞",
     "status": {
       "✔️[ = ]✔️": "3-25-22",
-      "mood": "🍋+",
+      "mood": "🪞",
       "{🎪}": [{
         "Pulse to eject 🎪 --> 🎪 redirect to ChiMetricsAllDayEveryday"
       }];
@@ -44,7 +39,7 @@
         "update": { "(🔬+) {kawaii}... is kawaii your goal?", "date": { "9:00 PM", "3/23/2022"}},
         "response": "#... ??",
         "update": { "check on mcc" }?}",
-        "response": "mcc --> ~[🧠] --> 😇"
+        "response": "mcc --> ~[🤠] --> 😇"
       }
     ],
   },
@@ -52,9 +47,9 @@
     "handle": "AccociatedPress",
     "emoji": "💪",
     "on":
-      "🪱{!✔️} --> 😇": "--> ??-",
+      "🪀{!✔️} --> 😇": "--> ??-",
     "status": {
-      "{🪱} --> ✔️✔️✔️": "!✔️",
+      "{🪀} --> ✔️✔️✔️": "!✔️",
       "mood": "{💪----}"
     },
     null
@@ -76,8 +71,8 @@
       "{📣}... ____#]": "Am I being fed controled media that it is purposefully showing sites that use old technology to influence my open source stance."
     },
     {
-      "handle": z",
-      "emoji": "🦉",
+      "handle": "z",
+      "emoji": "🫂",
       NaN
     }]
   },
