@@ -1,77 +1,83 @@
-{
-  {
-    "handle": "Baculio",
-    "emoji": "🥫",
-    "caution": "Sclera (twisted roots), thorn berries",
-    "status": {
-      "✔️✔️✔️": "7-7-14",
-      "mood": "?+"
+[
+  { 
+    "type": "adaptation",
+    "graphs": [
+    {
+      "handle": "+Baculio?+",
+      "emoji": "🥫",
+      "gained": "7-8-14",
+      "connects": [
+        {"11-23-2023": "thorn berries"}
+      ],
+      "status": "active"
     },
+    {
+      "handle": null,
+      "emoji": "⛲",
+      "gained": "1-25-2022",
+      "connects": [
+        {"10-30-2023": "taproots"}
+      ],
+      "status": null
+    }]
   },
   {
-    "handle": "z",
-    "emoji": "c",
-    NaN
+    "type": "election",
+    "graphs": [
+    {
+      "handle": "Rai-Pe",
+      "animal": {
+        "cat": "7-1-2018"
+      }
+      "emoji": "♻️",  
+      "contact": {
+        "out": [{"mold": "Blue and white"}]
+      },
+      "status": "active"
+    },
+    null
   },
   {
-    "handle": "llMossfet",
-    "emoji": "🗞️",
-    "contact": [
+    "type": "processing",
+    "graphs": [
+    {
+      "handle": "llMossfet",
+      "emoji": "🗞️",
+      "contact": [
       {
-        "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org"
-        "url": "https://www.youtube.com/watch?v=yPSYdCWRWFA",
+        "title": "Underwater Manatee Cam At Homosassa Springs | Fall in love with the beloved sea cows! | explore.org",
+        "url": "https://www.youtube.com/watch?v=yPSYdCWRWFA"
       },
       {
         "title": "Namibia: Live stream in the Namib Desert",
         "url": "https://www.youtube.com/watch?v=ydYDqZQpim8"
       }
-    ],
-    "status": {
+      ],
     },
-    "queries": [
-    ],
-  },
-  { 
-    "handle": "PHtest",
-    "emoji": "💲... ⬤",
-    "contact": [{
-      "title": "Strider Rubbing Beach - Underwater powered by EXPLORE.org",
-      "url": "https://www.youtube.com/watch?v=-vK6dVJ7erU",
+    { 
+      "handle": "PHtest",
+      "emoji": "💲... ⬤",
+      "contact": [{
+        "title": "Strider Rubbing Beach - Underwater powered by EXPLORE.org",
+        "url": "https://www.youtube.com/watch?v=-vK6dVJ7erU",
+      },
+      {
+        "title": "Brooks Falls - Katmai National Park, Alaska 2023 powered by EXPLORE.org",
+        "url": "https://www.youtube.com/watch?v=HsLvnFQW_yM"
+      }],
     },
     {
-      "title": "Brooks Falls - Katmai National Park, Alaska 2023 powered by EXPLORE.org",
-      "url": "https://www.youtube.com/watch?v=HsLvnFQW_yM"
-    }],
-    "caution": "Turned out to be orcas and bears",
-    "status": {
-      "✔️✔️✔️": "4-1-20",
-      "mood": "=== shielkwamm ==="
+      "handle": "clar940",
+      "emoji": "🐘 ♾️ 🦍"
     },
-    NaN
-  },
-  {
     {
-    "handle": "Jours",
-    "emoji": "✈️",
-    "on🗽": " <-- {{📡📡}}; {{🗽}}"
-    "status": {
-      "~🇦🇱": "11-20-23;",
-     "mood": "?✈️?...",
-    "🗽": "🗽🗽🗽🗽🗽🗽🗽🗽🗽",
-    "**💻:)**": "Website updated"
-  },
-  {
-    "handle": "AccociatedPress",
-    "caution": "cat election binding",
-    "emoji": "💪",
-    "on":
-      "🪀{!✔️} --> 😇": "--> ??-",
-    "status": {
-      "{🪀} --> ✔️✔️✔️": "!✔️",
-      "mood": "{💪----}"
-    },
-    null
-  },
-{"%": 
-  ["📣-->:", "{{📡}}", "👥", "{📣}"]
-}
+      "handle": "bk-4ground",
+      "emoji": "💢",
+      "status": {
+        "~🇦🇱": "11-20-23;",
+        "mood": "?✈️?...",
+        "**💻:)**": "Website Updated"
+      }
+    }]
+  }
+]
