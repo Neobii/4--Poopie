@@ -29,14 +29,13 @@
       "handle": "Rai-Pe",
       "animal": {
         "cat": "7-1-2018"
-      }
+      },
       "emoji": "♻️",  
       "contact": {
         "out": [{"mold": "Blue and white"}]
       },
       "status": "active"
-    },
-    null
+    }]
   },
   {
     "type": "processing",
@@ -53,7 +52,7 @@
         "title": "Namibia: Live stream in the Namib Desert",
         "url": "https://www.youtube.com/watch?v=ydYDqZQpim8"
       }
-      ],
+      ]
     },
     { 
       "handle": "PHtest",
@@ -65,7 +64,7 @@
       {
         "title": "Brooks Falls - Katmai National Park, Alaska 2023 powered by EXPLORE.org",
         "url": "https://www.youtube.com/watch?v=HsLvnFQW_yM"
-      }],
+      }]
     },
     {
       "handle": "clar940",
