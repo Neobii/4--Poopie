@@ -26,15 +26,18 @@
     "type": "election",
     "graphs": [
     {
-      "handle": "Rai-Pe",
+      "handle": "Thugga",
       "animal": {
-        "cat": "7-1-2018"
+        "to": "silverback-gorilla": "~",
+        "from": "cat",
+        "start": "7-1-2018"
       },
       "emoji": "♻️",  
       "contact": {
+        "food": "stevia",
         "out": [{"mold": "Blue and white"}]
       },
-      "status": "active"
+      "status": "urgent"
     }]
   },
   {
